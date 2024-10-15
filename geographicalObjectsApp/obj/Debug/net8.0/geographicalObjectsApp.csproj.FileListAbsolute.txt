@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\bin\Debug\net8.0\geographicalObjectsApp.exe
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\bin\Debug\net8.0\geographicalObjectsApp.deps.json
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\bin\Debug\net8.0\geographicalObjectsApp.runtimeconfig.json
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\bin\Debug\net8.0\geographicalObjectsApp.dll
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\bin\Debug\net8.0\geographicalObjectsApp.pdb
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\obj\Debug\net8.0\geographicalObjectsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\obj\Debug\net8.0\geographicalObjectsApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\obj\Debug\net8.0\geographicalObjectsApp.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\obj\Debug\net8.0\geographicalObjectsApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\obj\Debug\net8.0\geographicalObjectsApp.dll
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\obj\Debug\net8.0\refint\geographicalObjectsApp.dll
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\obj\Debug\net8.0\geographicalObjectsApp.pdb
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\obj\Debug\net8.0\geographicalObjectsApp.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\geographicalObjectsApp\obj\Debug\net8.0\ref\geographicalObjectsApp.dll

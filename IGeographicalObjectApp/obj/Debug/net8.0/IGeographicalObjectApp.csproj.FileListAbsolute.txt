@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\bin\Debug\net8.0\IGeographicalObjectApp.exe
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\bin\Debug\net8.0\IGeographicalObjectApp.deps.json
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\bin\Debug\net8.0\IGeographicalObjectApp.runtimeconfig.json
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\bin\Debug\net8.0\IGeographicalObjectApp.dll
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\bin\Debug\net8.0\IGeographicalObjectApp.pdb
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\obj\Debug\net8.0\IGeographicalObjectApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\obj\Debug\net8.0\IGeographicalObjectApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\obj\Debug\net8.0\IGeographicalObjectApp.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\obj\Debug\net8.0\IGeographicalObjectApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\obj\Debug\net8.0\IGeographicalObjectApp.dll
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\obj\Debug\net8.0\refint\IGeographicalObjectApp.dll
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\obj\Debug\net8.0\IGeographicalObjectApp.pdb
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\obj\Debug\net8.0\IGeographicalObjectApp.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\geographicalObjectsHW4Task6\IGeographicalObjectApp\obj\Debug\net8.0\ref\IGeographicalObjectApp.dll
